@@ -10,6 +10,7 @@ namespace SchoolTestGenerator
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("fuck niggers");
         }
     }
 }
